@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100 95 520 535" role="img" aria-label="لوگوی ایت ایزیلی">
+  <defs>
+    <linearGradient id="lm-body" x1="0.1" y1="0.1" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#5FAE88"/>
+      <stop offset="0.55" stop-color="#4A9A7C"/>
+      <stop offset="1" stop-color="#3C8A80"/>
+    </linearGradient>
+    <linearGradient id="lm-arm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8CC4A2"/>
+      <stop offset="1" stop-color="#5FA98A"/>
+    </linearGradient>
+    <linearGradient id="lm-head" x1="0.15" y1="0" x2="0.85" y2="1">
+      <stop offset="0" stop-color="#93C8A6"/>
+      <stop offset="1" stop-color="#4E9B7D"/>
+    </linearGradient>
+    <linearGradient id="lm-orange" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#FDD27A"/>
+      <stop offset="1" stop-color="#F0A23A"/>
+    </linearGradient>
+    <linearGradient id="lm-leaf" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#5C9F5E"/>
+      <stop offset="1" stop-color="#8CC176"/>
+    </linearGradient>
+  </defs>
+  <circle cx="309" cy="188" r="76" fill="url(#lm-head)"/>
+  <path d="M250 150c18-26 52-34 76-18-34-2-60 10-76 18z" fill="#fff" fill-opacity=".16"/>
+  <path fill="url(#lm-body)" d="M180 225C215 250 230 285 270 312C310 338 360 345 405 348C365 395 320 430 280 452C310 490 380 538 495 562C440 600 340 612 260 575C170 535 110 440 125 340C132 290 155 240 180 225Z"/>
+  <path fill="url(#lm-arm)" d="M215 262C230 290 255 318 290 330C335 346 372 347 405 348C365 395 320 430 280 452C250 430 222 380 215 330Z" fill-opacity=".85"/>
+  <path fill="url(#lm-orange)" d="M320 462C345 395 440 345 595 332C600 410 540 500 440 528C380 540 335 505 320 462Z"/>
+  <path fill="#fff" fill-opacity=".22" d="M340 440C380 385 460 352 560 342C470 365 395 400 340 440Z"/>
+  <path fill="url(#lm-leaf)" d="M370 320C400 268 480 232 535 262C552 272 562 285 566 298C520 292 440 292 370 320Z"/>
+  <path fill="url(#lm-leaf)" d="M563 292C535 250 540 205 575 178C590 220 585 262 563 292Z"/>
+  <path d="M395 308C440 280 490 262 540 272" stroke="#fff" stroke-opacity=".4" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

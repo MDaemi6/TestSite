@@ -1,0 +1,33 @@
+{
+  "name": "ایت ایزیلی",
+  "short_name": "ایت ایزیلی",
+  "description": "کاهش وزن اصولی با انتخاب‌های ساده‌تر",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eff6ff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "scope": "./",
+  "id": "./"
+}
