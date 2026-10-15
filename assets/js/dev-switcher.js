@@ -7,7 +7,11 @@
     { href: 'quiz.html', label: 'آزمون' },
     { href: 'about-us.html', label: 'درباره ما' },
     { href: 'contact-us.html', label: 'تماس با ما' },
-    { href: 'blog.html', label: 'مقالات (بلاگ)' }
+    { href: 'blog.html', label: 'مقالات (بلاگ)' },
+    { href: 'landing.html', label: 'انتخاب برنامه (۱)' },
+    { href: 'landing-medical.html', label: 'بررسی شرایط (۲)' },
+    { href: 'landing-plan.html', label: 'دریافت برنامه (۳)' },
+    { href: 'landing-journey.html', label: 'لاغری و زیبایی (۴)' }
   ];
   const cur = (location.pathname.split('/').pop() || 'index.html').toLowerCase();
   const css = `
